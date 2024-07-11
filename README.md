@@ -10,3 +10,10 @@
 
 
 
+
+
+## The folloing below all needs to be disabled in the BIOS of your target system.
+
+- Your bios needs to be set to UEFI
+- Secure boot needs to be disabled
+- CSM Support needs to be set to NO
