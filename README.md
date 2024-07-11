@@ -12,6 +12,9 @@
 
 
 
+
+
+
 ## The folloing below all needs to be disabled in the BIOS of your target system.
 
 - Your bios needs to be set to UEFI
